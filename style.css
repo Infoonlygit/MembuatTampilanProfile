@@ -1,0 +1,36 @@
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: yellow;
+            color: black;
+        }
+
+        header {
+            background-color: green;
+            color: blue;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        section {
+            max-width: 700px;
+            margin: 20px auto;
+            padding: 10px;
+            background-color: black;
+            box-shadow: 0 0 10px rgba(5, 4, 6, 3.5);
+            border-radius: 5px;
+        }
+
+       li, p, h1, h2, h3 {
+            color: white;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: red;
+            color: yellow;
+        }
+    </style>
